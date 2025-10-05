@@ -1,0 +1,13 @@
+{
+  "name": "Matter Hub",
+  "version": "latest",
+  "slug": "matter_hub",
+  "description": "Bridge Home Assistant entities to Matter (Google, Alexa, Apple).",
+  "startup": "services",
+  "boot": "auto",
+  "arch": ["aarch64", "armv7", "amd64"],
+  "options": {},
+  "schema": {},
+  "image": "ghcr.io/t0bst4r/home-assistant-matter-hub:latest",
+  "host_network": true
+}
