@@ -1,3 +1,5 @@
-name: Home Assistant Matter Hub Add-on
-url: https://github.com/ajay-sharma/home-assistant-matter-hub-addon
-maintainer: Ajay Sharma
+{
+  "name": "Home Assistant Matter Hub Add-on",
+  "url": "https://github.com/aks25-repos/home-assistant-matter-hub-addon",
+  "maintainer": "Ajay Sharma"
+}
